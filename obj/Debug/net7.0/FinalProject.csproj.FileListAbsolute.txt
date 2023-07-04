@@ -1,0 +1,15 @@
+D:\Documents\byu-idaho\3_semester\cse210\w11\bin\Debug\net7.0\FinalProject.exe
+D:\Documents\byu-idaho\3_semester\cse210\w11\bin\Debug\net7.0\FinalProject.deps.json
+D:\Documents\byu-idaho\3_semester\cse210\w11\bin\Debug\net7.0\FinalProject.runtimeconfig.json
+D:\Documents\byu-idaho\3_semester\cse210\w11\bin\Debug\net7.0\FinalProject.dll
+D:\Documents\byu-idaho\3_semester\cse210\w11\bin\Debug\net7.0\FinalProject.pdb
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.csproj.AssemblyReference.cache
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.AssemblyInfoInputs.cache
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.AssemblyInfo.cs
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.dll
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\refint\FinalProject.dll
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.pdb
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\FinalProject.genruntimeconfig.cache
+D:\Documents\byu-idaho\3_semester\cse210\w11\obj\Debug\net7.0\ref\FinalProject.dll

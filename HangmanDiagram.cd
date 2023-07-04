@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Program">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="Menu" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="0.5" />
+        <Point X="3.25" Y="0.23" />
+        <Point X="1.25" Y="0.23" />
+        <Point X="1.25" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIAAAAAAIAAAAAAAgAAAAACAAAAAQCAAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAoAAAAAAgAAAAAAAABAAwAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListMenu">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="Menu" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="0.5" />
+        <Point X="3.25" Y="0.237" />
+        <Point X="5.25" Y="0.237" />
+        <Point X="5.25" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQCAAAAA=</HashCode>
+      <FileName>ListMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HowToPlay">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>HowToPlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGenerator">
+    <Position X="6.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>WordGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GallowsRenderer">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>GallowsRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Dictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreBoard">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoreBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoringRules">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoringRules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreSimple">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoreSimple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreComplex">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="ScoringRules" FixedToPoint="true">
+      <Path>
+        <Point X="11" Y="4.046" />
+        <Point X="11" Y="4.25" />
+        <Point X="12.25" Y="4.25" />
+        <Point X="12.25" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoreComplex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="3.5" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAgQAAQgGABIAEAAAYAAAAgCABAQAAAAQAAAAAAAI=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hangman">
+    <Position X="6" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIBAAAAAAAQIBBgAAAAQAABAAAAAAAAAAg=</HashCode>
+      <FileName>Hangman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMenu">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQCAAAAA=</HashCode>
+      <FileName>GameMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
